@@ -1,0 +1,14 @@
+# raw + processed data are downloaded/built locally (see scripts/download_gse133344.sh)
+data/
+# new run outputs; the committed reference run lives in runs/l0-v1
+runs/*
+!runs/l0-v1/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+.env

@@ -1,0 +1,86 @@
+{
+  "device": "cpu",
+  "conditions": {
+    "1_oracle_lt_1e-4": true,
+    "2_negative_gte_0.90": true,
+    "3_ensemble_lte_0.10_all_scales": true,
+    "4_median_seed_lte_0.25": true,
+    "5_every_seed_lte_0.50": true,
+    "6_loo_ensemble_lte_0.10_all_scales": true,
+    "7_conditions_3_and_6_hold_at_all_scales": true,
+    "8_scale_range_lte_0.02": true
+  },
+  "measurements": {
+    "oracle_unexplained": 6.233259779420364e-16,
+    "negative_unexplained": 0.9980612303841092,
+    "by_scale": {
+      "0.1": {
+        "per_seed": [
+          0.274585,
+          0.155501,
+          0.116856,
+          0.156451,
+          0.199762
+        ],
+        "ensemble": 0.073302,
+        "median_seed": 0.156451,
+        "max_seed": 0.274585,
+        "leave_one_seed_out": [
+          0.065483,
+          0.086653,
+          0.086362,
+          0.084095,
+          0.077456
+        ]
+      },
+      "1.0": {
+        "per_seed": [
+          0.274585,
+          0.150309,
+          0.116859,
+          0.156462,
+          0.199762
+        ],
+        "ensemble": 0.073675,
+        "median_seed": 0.156462,
+        "max_seed": 0.274585,
+        "leave_one_seed_out": [
+          0.065836,
+          0.086656,
+          0.08682,
+          0.084355,
+          0.077808
+        ]
+      },
+      "10.0": {
+        "per_seed": [
+          0.274585,
+          0.155744,
+          0.116827,
+          0.156462,
+          0.199762
+        ],
+        "ensemble": 0.073652,
+        "median_seed": 0.156462,
+        "max_seed": 0.274585,
+        "leave_one_seed_out": [
+          0.065857,
+          0.087063,
+          0.086407,
+          0.084512,
+          0.077866
+        ]
+      }
+    },
+    "ensemble_scale_range": 0.0003733550180060885
+  },
+  "passed": true,
+  "env": {
+    "python": "3.12.3",
+    "torch": "2.9.1+rocm6.4",
+    "numpy": "2.4.6",
+    "platform": "Linux-7.0.0-28-generic-x86_64-with-glibc2.39",
+    "gpu": "AMD Radeon RX 6800 XT",
+    "source_sha256": "6749af10fb67acfe5619fb92345ada17db846b53c1bb6d7e9c1738188a683565"
+  }
+}

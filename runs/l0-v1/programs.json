@@ -1,0 +1,3430 @@
+{
+  "n_programs": 32,
+  "programs": [
+    {
+      "program": 0,
+      "l2": 1.003045916557312,
+      "threshold": 0.019411275163292885,
+      "top_genes": [
+        {
+          "gene": "HIST1H4C",
+          "weight": -0.16354
+        },
+        {
+          "gene": "HBA2",
+          "weight": 0.11408
+        },
+        {
+          "gene": "HBE1",
+          "weight": 0.10296
+        },
+        {
+          "gene": "SEPT11",
+          "weight": -0.10134
+        },
+        {
+          "gene": "HBA1",
+          "weight": 0.09824
+        },
+        {
+          "gene": "HMGN2",
+          "weight": 0.08851
+        },
+        {
+          "gene": "SLC25A37",
+          "weight": 0.08817
+        },
+        {
+          "gene": "APOC1",
+          "weight": 0.08748
+        },
+        {
+          "gene": "LY6E",
+          "weight": -0.08709
+        },
+        {
+          "gene": "VIM",
+          "weight": -0.08581
+        },
+        {
+          "gene": "GAR1",
+          "weight": -0.0857
+        },
+        {
+          "gene": "NDUFAF2",
+          "weight": -0.08538
+        },
+        {
+          "gene": "LYL1",
+          "weight": -0.08383
+        },
+        {
+          "gene": "PRKAR2B",
+          "weight": -0.08337
+        },
+        {
+          "gene": "AIF1",
+          "weight": -0.08199
+        },
+        {
+          "gene": "LGALS1",
+          "weight": 0.08039
+        },
+        {
+          "gene": "CD52",
+          "weight": -0.07842
+        },
+        {
+          "gene": "ALAS2",
+          "weight": 0.078
+        },
+        {
+          "gene": "CALM1",
+          "weight": -0.07514
+        },
+        {
+          "gene": "PHB",
+          "weight": -0.07493
+        },
+        {
+          "gene": "H1FX",
+          "weight": 0.07456
+        },
+        {
+          "gene": "GMPR",
+          "weight": -0.0728
+        },
+        {
+          "gene": "PIM1",
+          "weight": -0.07259
+        },
+        {
+          "gene": "FAM89A",
+          "weight": -0.07142
+        },
+        {
+          "gene": "HOXB9",
+          "weight": -0.07138
+        }
+      ]
+    },
+    {
+      "program": 1,
+      "l2": 1.0028084516525269,
+      "threshold": 0.015095412731170654,
+      "top_genes": [
+        {
+          "gene": "HBZ",
+          "weight": 0.21055
+        },
+        {
+          "gene": "AIF1",
+          "weight": 0.13775
+        },
+        {
+          "gene": "LGALS1",
+          "weight": -0.11469
+        },
+        {
+          "gene": "SLC25A3",
+          "weight": 0.10264
+        },
+        {
+          "gene": "TMSB10",
+          "weight": -0.10021
+        },
+        {
+          "gene": "HBE1",
+          "weight": 0.10019
+        },
+        {
+          "gene": "ID1",
+          "weight": 0.0954
+        },
+        {
+          "gene": "PRSS57",
+          "weight": -0.08357
+        },
+        {
+          "gene": "ANP32A",
+          "weight": -0.08311
+        },
+        {
+          "gene": "ID3",
+          "weight": 0.08007
+        },
+        {
+          "gene": "MYL4",
+          "weight": 0.07702
+        },
+        {
+          "gene": "GSTP1",
+          "weight": -0.07596
+        },
+        {
+          "gene": "LST1",
+          "weight": 0.07551
+        },
+        {
+          "gene": "S100A1",
+          "weight": 0.07477
+        },
+        {
+          "gene": "STMN1",
+          "weight": -0.07425
+        },
+        {
+          "gene": "TXNIP",
+          "weight": 0.0732
+        },
+        {
+          "gene": "HIST1H1C",
+          "weight": -0.07284
+        },
+        {
+          "gene": "PLD3",
+          "weight": 0.07122
+        },
+        {
+          "gene": "CFD",
+          "weight": 0.07026
+        },
+        {
+          "gene": "AC079466.1",
+          "weight": 0.0702
+        },
+        {
+          "gene": "PKM",
+          "weight": -0.06977
+        },
+        {
+          "gene": "GMPPA",
+          "weight": -0.06963
+        },
+        {
+          "gene": "XRCC5",
+          "weight": -0.06882
+        },
+        {
+          "gene": "C6orf48",
+          "weight": 0.06847
+        },
+        {
+          "gene": "CTSH",
+          "weight": -0.06704
+        }
+      ]
+    },
+    {
+      "program": 2,
+      "l2": 1.0041154623031616,
+      "threshold": 0.011107297614216805,
+      "top_genes": [
+        {
+          "gene": "HBZ",
+          "weight": 0.22749
+        },
+        {
+          "gene": "SH3BGRL3",
+          "weight": 0.19732
+        },
+        {
+          "gene": "HBA1",
+          "weight": 0.1327
+        },
+        {
+          "gene": "GYPB",
+          "weight": 0.12736
+        },
+        {
+          "gene": "RP11-717F1.1",
+          "weight": 0.12368
+        },
+        {
+          "gene": "CFD",
+          "weight": -0.11975
+        },
+        {
+          "gene": "VIM",
+          "weight": -0.11659
+        },
+        {
+          "gene": "HIST1H1C",
+          "weight": 0.10787
+        },
+        {
+          "gene": "ID1",
+          "weight": 0.09374
+        },
+        {
+          "gene": "PNRC1",
+          "weight": -0.09102
+        },
+        {
+          "gene": "HBG2",
+          "weight": 0.08888
+        },
+        {
+          "gene": "CSF3R",
+          "weight": -0.08665
+        },
+        {
+          "gene": "ACSM3",
+          "weight": -0.08549
+        },
+        {
+          "gene": "GYPA",
+          "weight": 0.0849
+        },
+        {
+          "gene": "ALAS2",
+          "weight": 0.08267
+        },
+        {
+          "gene": "HBA2",
+          "weight": 0.08055
+        },
+        {
+          "gene": "SVIP",
+          "weight": 0.08016
+        },
+        {
+          "gene": "AIF1",
+          "weight": 0.07831
+        },
+        {
+          "gene": "TUBA1B",
+          "weight": -0.07815
+        },
+        {
+          "gene": "MS4A3",
+          "weight": -0.0765
+        },
+        {
+          "gene": "APOC1",
+          "weight": 0.07384
+        },
+        {
+          "gene": "ID3",
+          "weight": 0.07317
+        },
+        {
+          "gene": "EGFL7",
+          "weight": 0.07283
+        },
+        {
+          "gene": "CEBPE",
+          "weight": -0.07221
+        },
+        {
+          "gene": "GSTP1",
+          "weight": -0.07118
+        }
+      ]
+    },
+    {
+      "program": 3,
+      "l2": 1.0037180185317993,
+      "threshold": 0.039387013763189316,
+      "top_genes": [
+        {
+          "gene": "HBZ",
+          "weight": -0.29423
+        },
+        {
+          "gene": "HIST1H1C",
+          "weight": 0.14246
+        },
+        {
+          "gene": "EMP3",
+          "weight": 0.1188
+        },
+        {
+          "gene": "RP11-717F1.1",
+          "weight": 0.09996
+        },
+        {
+          "gene": "HIST1H4C",
+          "weight": -0.09601
+        },
+        {
+          "gene": "CD52",
+          "weight": 0.09262
+        },
+        {
+          "gene": "PYCARD",
+          "weight": -0.09185
+        },
+        {
+          "gene": "ALAS2",
+          "weight": -0.09165
+        },
+        {
+          "gene": "SH3BGRL3",
+          "weight": 0.08717
+        },
+        {
+          "gene": "CTSL",
+          "weight": -0.08432
+        },
+        {
+          "gene": "STMN1",
+          "weight": -0.08135
+        },
+        {
+          "gene": "SNHG9",
+          "weight": 0.07932
+        },
+        {
+          "gene": "SERPINB9",
+          "weight": 0.07877
+        },
+        {
+          "gene": "TMSB10",
+          "weight": 0.07845
+        },
+        {
+          "gene": "APOE",
+          "weight": 0.07833
+        },
+        {
+          "gene": "FTL",
+          "weight": 0.07632
+        },
+        {
+          "gene": "COL18A1",
+          "weight": -0.07452
+        },
+        {
+          "gene": "PTPN7",
+          "weight": 0.07421
+        },
+        {
+          "gene": "VIM",
+          "weight": -0.07283
+        },
+        {
+          "gene": "PRKCB",
+          "weight": 0.07054
+        },
+        {
+          "gene": "TESC",
+          "weight": -0.07028
+        },
+        {
+          "gene": "SNHG19",
+          "weight": 0.06911
+        },
+        {
+          "gene": "IGFBP2",
+          "weight": -0.06843
+        },
+        {
+          "gene": "DUT",
+          "weight": -0.06795
+        },
+        {
+          "gene": "PTGES3",
+          "weight": -0.0656
+        }
+      ]
+    },
+    {
+      "program": 4,
+      "l2": 1.0035823583602905,
+      "threshold": 0.05241971090435982,
+      "top_genes": [
+        {
+          "gene": "HBG1",
+          "weight": 0.14437
+        },
+        {
+          "gene": "HBG2",
+          "weight": 0.13859
+        },
+        {
+          "gene": "VIM",
+          "weight": 0.11004
+        },
+        {
+          "gene": "CFD",
+          "weight": 0.10413
+        },
+        {
+          "gene": "HBE1",
+          "weight": 0.10136
+        },
+        {
+          "gene": "RP11-301G19.1",
+          "weight": 0.09842
+        },
+        {
+          "gene": "SERPINB6",
+          "weight": -0.09403
+        },
+        {
+          "gene": "MALAT1",
+          "weight": 0.08919
+        },
+        {
+          "gene": "GYPA",
+          "weight": -0.088
+        },
+        {
+          "gene": "GAD1",
+          "weight": -0.08336
+        },
+        {
+          "gene": "CTSC",
+          "weight": 0.0833
+        },
+        {
+          "gene": "GMPPA",
+          "weight": -0.08327
+        },
+        {
+          "gene": "NEAT1",
+          "weight": 0.08201
+        },
+        {
+          "gene": "GYPB",
+          "weight": -0.08031
+        },
+        {
+          "gene": "HBZ",
+          "weight": -0.07925
+        },
+        {
+          "gene": "LAPTM5",
+          "weight": 0.07791
+        },
+        {
+          "gene": "RP11-717F1.1",
+          "weight": 0.07751
+        },
+        {
+          "gene": "PLD3",
+          "weight": 0.07523
+        },
+        {
+          "gene": "BTG1",
+          "weight": 0.07488
+        },
+        {
+          "gene": "APOC1",
+          "weight": -0.07244
+        },
+        {
+          "gene": "AIF1",
+          "weight": 0.07218
+        },
+        {
+          "gene": "TALDO1",
+          "weight": 0.07123
+        },
+        {
+          "gene": "ID1",
+          "weight": 0.06761
+        },
+        {
+          "gene": "GNAI2",
+          "weight": 0.06732
+        },
+        {
+          "gene": "BATF3",
+          "weight": -0.06716
+        }
+      ]
+    },
+    {
+      "program": 5,
+      "l2": 1.003622055053711,
+      "threshold": 0.008530775085091591,
+      "top_genes": [
+        {
+          "gene": "HIST1H1C",
+          "weight": 0.18654
+        },
+        {
+          "gene": "LMO4",
+          "weight": 0.11774
+        },
+        {
+          "gene": "APOE",
+          "weight": 0.10567
+        },
+        {
+          "gene": "TMSB10",
+          "weight": -0.10119
+        },
+        {
+          "gene": "NCF1",
+          "weight": -0.09502
+        },
+        {
+          "gene": "SH3BGRL3",
+          "weight": -0.09339
+        },
+        {
+          "gene": "CALM1",
+          "weight": -0.09286
+        },
+        {
+          "gene": "TMSB4X",
+          "weight": -0.08873
+        },
+        {
+          "gene": "MT-ND6",
+          "weight": 0.08755
+        },
+        {
+          "gene": "ITM2B",
+          "weight": -0.08446
+        },
+        {
+          "gene": "PNMT",
+          "weight": -0.08072
+        },
+        {
+          "gene": "CLC",
+          "weight": -0.08044
+        },
+        {
+          "gene": "RP11-301G19.1",
+          "weight": -0.07619
+        },
+        {
+          "gene": "CTSH",
+          "weight": -0.076
+        },
+        {
+          "gene": "PITX1",
+          "weight": 0.07571
+        },
+        {
+          "gene": "EMP3",
+          "weight": -0.07548
+        },
+        {
+          "gene": "RPL3",
+          "weight": 0.07542
+        },
+        {
+          "gene": "DHFR",
+          "weight": 0.07515
+        },
+        {
+          "gene": "COL18A1",
+          "weight": 0.07373
+        },
+        {
+          "gene": "APOC1",
+          "weight": 0.07371
+        },
+        {
+          "gene": "BEX4",
+          "weight": 0.07061
+        },
+        {
+          "gene": "STMN1",
+          "weight": 0.07043
+        },
+        {
+          "gene": "DCUN1D5",
+          "weight": -0.06842
+        },
+        {
+          "gene": "YARS",
+          "weight": -0.06823
+        },
+        {
+          "gene": "HOXB9",
+          "weight": 0.06454
+        }
+      ]
+    },
+    {
+      "program": 6,
+      "l2": 1.004093050956726,
+      "threshold": 0.01750573143362999,
+      "top_genes": [
+        {
+          "gene": "GYPB",
+          "weight": 0.17062
+        },
+        {
+          "gene": "APOE",
+          "weight": 0.1555
+        },
+        {
+          "gene": "APOC1",
+          "weight": 0.15406
+        },
+        {
+          "gene": "MYL4",
+          "weight": 0.15059
+        },
+        {
+          "gene": "GSTP1",
+          "weight": 0.12755
+        },
+        {
+          "gene": "SH3BGRL3",
+          "weight": -0.11615
+        },
+        {
+          "gene": "BATF3",
+          "weight": -0.11372
+        },
+        {
+          "gene": "HBG2",
+          "weight": 0.11091
+        },
+        {
+          "gene": "GYPA",
+          "weight": 0.10434
+        },
+        {
+          "gene": "FADS1",
+          "weight": 0.09687
+        },
+        {
+          "gene": "GYPE",
+          "weight": 0.09121
+        },
+        {
+          "gene": "LGALS1",
+          "weight": -0.08912
+        },
+        {
+          "gene": "HBG1",
+          "weight": 0.08498
+        },
+        {
+          "gene": "CD63",
+          "weight": -0.08484
+        },
+        {
+          "gene": "FCER1G",
+          "weight": -0.0845
+        },
+        {
+          "gene": "SVIP",
+          "weight": -0.08441
+        },
+        {
+          "gene": "HIST1H4C",
+          "weight": -0.08349
+        },
+        {
+          "gene": "MALAT1",
+          "weight": -0.0824
+        },
+        {
+          "gene": "CD52",
+          "weight": -0.0797
+        },
+        {
+          "gene": "PHF19",
+          "weight": -0.07618
+        },
+        {
+          "gene": "UGP2",
+          "weight": -0.07508
+        },
+        {
+          "gene": "LYL1",
+          "weight": 0.07283
+        },
+        {
+          "gene": "NR2F2",
+          "weight": -0.0722
+        },
+        {
+          "gene": "ATP6V0B",
+          "weight": -0.07206
+        },
+        {
+          "gene": "GAPDH",
+          "weight": -0.07188
+        }
+      ]
+    },
+    {
+      "program": 7,
+      "l2": 1.0035489797592163,
+      "threshold": 0.007704263087362051,
+      "top_genes": [
+        {
+          "gene": "HBG2",
+          "weight": 0.19507
+        },
+        {
+          "gene": "HIST1H1C",
+          "weight": 0.15986
+        },
+        {
+          "gene": "HBZ",
+          "weight": 0.1453
+        },
+        {
+          "gene": "CD99",
+          "weight": -0.11425
+        },
+        {
+          "gene": "MALAT1",
+          "weight": 0.10942
+        },
+        {
+          "gene": "HMGB2",
+          "weight": 0.1093
+        },
+        {
+          "gene": "APOE",
+          "weight": -0.10557
+        },
+        {
+          "gene": "ALAS2",
+          "weight": -0.08624
+        },
+        {
+          "gene": "BST2",
+          "weight": -0.08431
+        },
+        {
+          "gene": "MT-ND6",
+          "weight": 0.08378
+        },
+        {
+          "gene": "TUBB",
+          "weight": 0.08035
+        },
+        {
+          "gene": "HK1",
+          "weight": 0.07738
+        },
+        {
+          "gene": "RP11-301G19.1",
+          "weight": -0.07559
+        },
+        {
+          "gene": "TMSB4X",
+          "weight": -0.07315
+        },
+        {
+          "gene": "SOCS1",
+          "weight": -0.07266
+        },
+        {
+          "gene": "HIST1H4C",
+          "weight": 0.07238
+        },
+        {
+          "gene": "KIAA0101",
+          "weight": 0.07177
+        },
+        {
+          "gene": "APOC1",
+          "weight": -0.07142
+        },
+        {
+          "gene": "HBG1",
+          "weight": 0.07061
+        },
+        {
+          "gene": "SMC1A",
+          "weight": 0.07037
+        },
+        {
+          "gene": "CTSC",
+          "weight": -0.06822
+        },
+        {
+          "gene": "RAN",
+          "weight": 0.06788
+        },
+        {
+          "gene": "SDF2L1",
+          "weight": -0.06769
+        },
+        {
+          "gene": "MARCKSL1",
+          "weight": 0.06748
+        },
+        {
+          "gene": "NR2F2",
+          "weight": 0.06724
+        }
+      ]
+    },
+    {
+      "program": 8,
+      "l2": 1.0035240650177002,
+      "threshold": 0.024134306237101555,
+      "top_genes": [
+        {
+          "gene": "MSN",
+          "weight": 0.16658
+        },
+        {
+          "gene": "HBG2",
+          "weight": 0.15468
+        },
+        {
+          "gene": "APOE",
+          "weight": -0.10995
+        },
+        {
+          "gene": "TMSB10",
+          "weight": 0.10061
+        },
+        {
+          "gene": "HBE1",
+          "weight": -0.10033
+        },
+        {
+          "gene": "LY6E",
+          "weight": 0.10031
+        },
+        {
+          "gene": "MS4A3",
+          "weight": 0.09998
+        },
+        {
+          "gene": "ACTG1",
+          "weight": 0.09436
+        },
+        {
+          "gene": "PNMT",
+          "weight": 0.0909
+        },
+        {
+          "gene": "UBAC1",
+          "weight": 0.08998
+        },
+        {
+          "gene": "FAM178B",
+          "weight": -0.08914
+        },
+        {
+          "gene": "TFRC",
+          "weight": 0.08397
+        },
+        {
+          "gene": "SLC25A37",
+          "weight": -0.0818
+        },
+        {
+          "gene": "EMP3",
+          "weight": 0.08104
+        },
+        {
+          "gene": "AP001171.1",
+          "weight": 0.07973
+        },
+        {
+          "gene": "TMSB4X",
+          "weight": 0.07883
+        },
+        {
+          "gene": "PCMT1",
+          "weight": -0.07692
+        },
+        {
+          "gene": "AC079466.1",
+          "weight": 0.07536
+        },
+        {
+          "gene": "HBA1",
+          "weight": -0.07511
+        },
+        {
+          "gene": "NCF1",
+          "weight": 0.07351
+        },
+        {
+          "gene": "CD52",
+          "weight": -0.0722
+        },
+        {
+          "gene": "TUBA1B",
+          "weight": -0.07097
+        },
+        {
+          "gene": "BLVRB",
+          "weight": -0.06968
+        },
+        {
+          "gene": "SNHG9",
+          "weight": 0.06967
+        },
+        {
+          "gene": "HES1",
+          "weight": -0.06837
+        }
+      ]
+    },
+    {
+      "program": 9,
+      "l2": 1.0037200450897217,
+      "threshold": 0.04135352745652199,
+      "top_genes": [
+        {
+          "gene": "HBA1",
+          "weight": -0.13123
+        },
+        {
+          "gene": "FAM89A",
+          "weight": 0.11566
+        },
+        {
+          "gene": "ATF7IP2",
+          "weight": -0.10583
+        },
+        {
+          "gene": "ACTG1",
+          "weight": -0.10477
+        },
+        {
+          "gene": "HBA2",
+          "weight": -0.10449
+        },
+        {
+          "gene": "VIM",
+          "weight": -0.10126
+        },
+        {
+          "gene": "PKM",
+          "weight": 0.09506
+        },
+        {
+          "gene": "PRSS57",
+          "weight": -0.09378
+        },
+        {
+          "gene": "SQLE",
+          "weight": 0.08735
+        },
+        {
+          "gene": "UROD",
+          "weight": 0.08413
+        },
+        {
+          "gene": "NDUFC2",
+          "weight": 0.08275
+        },
+        {
+          "gene": "NDUFS4",
+          "weight": 0.08247
+        },
+        {
+          "gene": "TXNIP",
+          "weight": 0.08084
+        },
+        {
+          "gene": "PIM1",
+          "weight": -0.07958
+        },
+        {
+          "gene": "MARCKSL1",
+          "weight": -0.07814
+        },
+        {
+          "gene": "AC079466.1",
+          "weight": 0.0766
+        },
+        {
+          "gene": "LGALS1",
+          "weight": -0.07636
+        },
+        {
+          "gene": "RPL3",
+          "weight": -0.07546
+        },
+        {
+          "gene": "HMGN2",
+          "weight": 0.07385
+        },
+        {
+          "gene": "PITX1",
+          "weight": 0.07326
+        },
+        {
+          "gene": "TKT",
+          "weight": -0.0726
+        },
+        {
+          "gene": "LMO4",
+          "weight": -0.0694
+        },
+        {
+          "gene": "PLA2G16",
+          "weight": 0.06853
+        },
+        {
+          "gene": "C6orf48",
+          "weight": 0.06846
+        },
+        {
+          "gene": "KDELR2",
+          "weight": 0.06785
+        }
+      ]
+    },
+    {
+      "program": 10,
+      "l2": 1.0032163858413696,
+      "threshold": 0.015379643999040127,
+      "top_genes": [
+        {
+          "gene": "HBE1",
+          "weight": 0.15573
+        },
+        {
+          "gene": "MALAT1",
+          "weight": 0.13813
+        },
+        {
+          "gene": "GSTP1",
+          "weight": 0.12381
+        },
+        {
+          "gene": "SOCS2",
+          "weight": 0.12263
+        },
+        {
+          "gene": "CFD",
+          "weight": -0.12196
+        },
+        {
+          "gene": "SLC25A37",
+          "weight": 0.11802
+        },
+        {
+          "gene": "CLC",
+          "weight": 0.10096
+        },
+        {
+          "gene": "CSF3R",
+          "weight": -0.09943
+        },
+        {
+          "gene": "SH3BGRL3",
+          "weight": -0.09888
+        },
+        {
+          "gene": "HBG2",
+          "weight": 0.09767
+        },
+        {
+          "gene": "MT-ND6",
+          "weight": 0.09393
+        },
+        {
+          "gene": "BTG2",
+          "weight": 0.08808
+        },
+        {
+          "gene": "TIMP1",
+          "weight": 0.08589
+        },
+        {
+          "gene": "APOE",
+          "weight": -0.08534
+        },
+        {
+          "gene": "NEAT1",
+          "weight": 0.08476
+        },
+        {
+          "gene": "PRSS57",
+          "weight": -0.08321
+        },
+        {
+          "gene": "LAPTM4B",
+          "weight": 0.08084
+        },
+        {
+          "gene": "AP001171.1",
+          "weight": -0.08042
+        },
+        {
+          "gene": "LIMD2",
+          "weight": -0.07923
+        },
+        {
+          "gene": "PIM1",
+          "weight": 0.07869
+        },
+        {
+          "gene": "HEPH",
+          "weight": -0.07817
+        },
+        {
+          "gene": "ANP32A",
+          "weight": -0.07593
+        },
+        {
+          "gene": "BID",
+          "weight": -0.07365
+        },
+        {
+          "gene": "BST2",
+          "weight": 0.07325
+        },
+        {
+          "gene": "SAT1",
+          "weight": -0.07158
+        }
+      ]
+    },
+    {
+      "program": 11,
+      "l2": 1.001808524131775,
+      "threshold": 0.011977782472968102,
+      "top_genes": [
+        {
+          "gene": "HBA1",
+          "weight": -0.11969
+        },
+        {
+          "gene": "BATF3",
+          "weight": -0.11621
+        },
+        {
+          "gene": "SH3BGRL3",
+          "weight": -0.11267
+        },
+        {
+          "gene": "RNASET2",
+          "weight": -0.10044
+        },
+        {
+          "gene": "NQO2",
+          "weight": 0.094
+        },
+        {
+          "gene": "AC079466.1",
+          "weight": 0.09223
+        },
+        {
+          "gene": "COX7B",
+          "weight": 0.09037
+        },
+        {
+          "gene": "AIF1",
+          "weight": -0.08855
+        },
+        {
+          "gene": "FAM89A",
+          "weight": -0.08799
+        },
+        {
+          "gene": "NDUFAF2",
+          "weight": 0.08507
+        },
+        {
+          "gene": "FTL",
+          "weight": -0.08113
+        },
+        {
+          "gene": "SOCS2",
+          "weight": -0.07924
+        },
+        {
+          "gene": "BST2",
+          "weight": -0.07624
+        },
+        {
+          "gene": "S100A13",
+          "weight": -0.0743
+        },
+        {
+          "gene": "TMSB4X",
+          "weight": -0.07429
+        },
+        {
+          "gene": "SLC39A3",
+          "weight": 0.07409
+        },
+        {
+          "gene": "SLC25A37",
+          "weight": -0.0738
+        },
+        {
+          "gene": "ATF7IP2",
+          "weight": -0.07361
+        },
+        {
+          "gene": "HBA2",
+          "weight": -0.07344
+        },
+        {
+          "gene": "SQLE",
+          "weight": 0.0729
+        },
+        {
+          "gene": "RP11-717F1.1",
+          "weight": 0.072
+        },
+        {
+          "gene": "TSC22D1",
+          "weight": -0.06877
+        },
+        {
+          "gene": "GAD1",
+          "weight": -0.0669
+        },
+        {
+          "gene": "FAM173A",
+          "weight": 0.06467
+        },
+        {
+          "gene": "PHB",
+          "weight": 0.06466
+        }
+      ]
+    },
+    {
+      "program": 12,
+      "l2": 1.0032480955123901,
+      "threshold": 0.018027395009994507,
+      "top_genes": [
+        {
+          "gene": "HBG2",
+          "weight": 0.14392
+        },
+        {
+          "gene": "HBZ",
+          "weight": 0.14022
+        },
+        {
+          "gene": "TMSB10",
+          "weight": 0.13787
+        },
+        {
+          "gene": "HBG1",
+          "weight": 0.11068
+        },
+        {
+          "gene": "HMGB2",
+          "weight": -0.10022
+        },
+        {
+          "gene": "BTG1",
+          "weight": -0.09915
+        },
+        {
+          "gene": "TUBA1B",
+          "weight": -0.09398
+        },
+        {
+          "gene": "PRKAR2B",
+          "weight": -0.09283
+        },
+        {
+          "gene": "MYL4",
+          "weight": -0.08755
+        },
+        {
+          "gene": "NDUFAF2",
+          "weight": 0.08269
+        },
+        {
+          "gene": "HMGN2",
+          "weight": -0.08238
+        },
+        {
+          "gene": "GMPPA",
+          "weight": 0.07823
+        },
+        {
+          "gene": "GSTP1",
+          "weight": -0.07787
+        },
+        {
+          "gene": "S100A13",
+          "weight": 0.07785
+        },
+        {
+          "gene": "COL18A1",
+          "weight": -0.07586
+        },
+        {
+          "gene": "SRSF3",
+          "weight": -0.07394
+        },
+        {
+          "gene": "PTPN7",
+          "weight": 0.0736
+        },
+        {
+          "gene": "H2AFZ",
+          "weight": -0.0736
+        },
+        {
+          "gene": "S100A11",
+          "weight": 0.07091
+        },
+        {
+          "gene": "PITX1",
+          "weight": -0.07021
+        },
+        {
+          "gene": "MT1X",
+          "weight": -0.06942
+        },
+        {
+          "gene": "MT2A",
+          "weight": -0.06811
+        },
+        {
+          "gene": "CHI3L2",
+          "weight": 0.06796
+        },
+        {
+          "gene": "BATF3",
+          "weight": 0.06756
+        },
+        {
+          "gene": "PHF19",
+          "weight": -0.06702
+        }
+      ]
+    },
+    {
+      "program": 13,
+      "l2": 1.0043236017227173,
+      "threshold": 0.008338834159076214,
+      "top_genes": [
+        {
+          "gene": "VIM",
+          "weight": -0.15762
+        },
+        {
+          "gene": "APOC1",
+          "weight": -0.11234
+        },
+        {
+          "gene": "CTSL",
+          "weight": -0.10998
+        },
+        {
+          "gene": "ANXA2",
+          "weight": -0.1036
+        },
+        {
+          "gene": "GYPB",
+          "weight": 0.10351
+        },
+        {
+          "gene": "RP11-717F1.1",
+          "weight": 0.10305
+        },
+        {
+          "gene": "PIM1",
+          "weight": 0.09975
+        },
+        {
+          "gene": "BST2",
+          "weight": -0.09364
+        },
+        {
+          "gene": "HBG2",
+          "weight": -0.09315
+        },
+        {
+          "gene": "HBG1",
+          "weight": -0.09269
+        },
+        {
+          "gene": "SQLE",
+          "weight": 0.08674
+        },
+        {
+          "gene": "HIST1H1C",
+          "weight": 0.08646
+        },
+        {
+          "gene": "TUBA1B",
+          "weight": -0.08611
+        },
+        {
+          "gene": "PSAP",
+          "weight": 0.08587
+        },
+        {
+          "gene": "HSP90AA1",
+          "weight": -0.08578
+        },
+        {
+          "gene": "BLVRB",
+          "weight": 0.08322
+        },
+        {
+          "gene": "PTTG1",
+          "weight": -0.08176
+        },
+        {
+          "gene": "MYL4",
+          "weight": 0.08085
+        },
+        {
+          "gene": "CD99",
+          "weight": 0.08038
+        },
+        {
+          "gene": "SVIP",
+          "weight": -0.0787
+        },
+        {
+          "gene": "RP11-301G19.1",
+          "weight": 0.07625
+        },
+        {
+          "gene": "TMSB10",
+          "weight": -0.07533
+        },
+        {
+          "gene": "HBZ",
+          "weight": 0.07406
+        },
+        {
+          "gene": "ID3",
+          "weight": -0.0737
+        },
+        {
+          "gene": "MYL6",
+          "weight": 0.07314
+        }
+      ]
+    },
+    {
+      "program": 14,
+      "l2": 1.0029338598251343,
+      "threshold": 0.06538195163011551,
+      "top_genes": [
+        {
+          "gene": "PRSS57",
+          "weight": -0.18718
+        },
+        {
+          "gene": "HBZ",
+          "weight": -0.18093
+        },
+        {
+          "gene": "HBG2",
+          "weight": 0.14361
+        },
+        {
+          "gene": "TMSB10",
+          "weight": -0.1362
+        },
+        {
+          "gene": "APOC1",
+          "weight": -0.12224
+        },
+        {
+          "gene": "RP11-717F1.1",
+          "weight": 0.10855
+        },
+        {
+          "gene": "MSN",
+          "weight": -0.1077
+        },
+        {
+          "gene": "ID3",
+          "weight": -0.1068
+        },
+        {
+          "gene": "RP11-301G19.1",
+          "weight": -0.10643
+        },
+        {
+          "gene": "LGALS1",
+          "weight": -0.10095
+        },
+        {
+          "gene": "SH3BGRL3",
+          "weight": -0.09976
+        },
+        {
+          "gene": "ID1",
+          "weight": -0.09967
+        },
+        {
+          "gene": "PKM",
+          "weight": 0.09653
+        },
+        {
+          "gene": "FTL",
+          "weight": -0.09624
+        },
+        {
+          "gene": "APOE",
+          "weight": -0.09401
+        },
+        {
+          "gene": "LMO4",
+          "weight": -0.08803
+        },
+        {
+          "gene": "AP001171.1",
+          "weight": -0.08503
+        },
+        {
+          "gene": "TIMP1",
+          "weight": -0.08346
+        },
+        {
+          "gene": "PLPPR3",
+          "weight": -0.0805
+        },
+        {
+          "gene": "AC079466.1",
+          "weight": -0.07814
+        },
+        {
+          "gene": "HN1",
+          "weight": -0.07739
+        },
+        {
+          "gene": "PFN2",
+          "weight": -0.07479
+        },
+        {
+          "gene": "LY6E",
+          "weight": -0.07173
+        },
+        {
+          "gene": "HK1",
+          "weight": 0.07122
+        },
+        {
+          "gene": "AC006262.5",
+          "weight": -0.06978
+        }
+      ]
+    },
+    {
+      "program": 15,
+      "l2": 1.005122423171997,
+      "threshold": 0.01375411357730627,
+      "top_genes": [
+        {
+          "gene": "GYPB",
+          "weight": 0.1819
+        },
+        {
+          "gene": "RP11-717F1.1",
+          "weight": -0.16263
+        },
+        {
+          "gene": "CTSL",
+          "weight": -0.16238
+        },
+        {
+          "gene": "AC079466.1",
+          "weight": -0.15017
+        },
+        {
+          "gene": "GSTP1",
+          "weight": -0.14019
+        },
+        {
+          "gene": "HBZ",
+          "weight": -0.11354
+        },
+        {
+          "gene": "GYPA",
+          "weight": 0.11314
+        },
+        {
+          "gene": "BLVRB",
+          "weight": -0.1015
+        },
+        {
+          "gene": "ACTG1",
+          "weight": 0.10015
+        },
+        {
+          "gene": "TEX30",
+          "weight": 0.09866
+        },
+        {
+          "gene": "CD52",
+          "weight": 0.09531
+        },
+        {
+          "gene": "LY6E",
+          "weight": 0.09226
+        },
+        {
+          "gene": "MT-ND6",
+          "weight": -0.08581
+        },
+        {
+          "gene": "PLP2",
+          "weight": 0.08234
+        },
+        {
+          "gene": "S100A11",
+          "weight": 0.08198
+        },
+        {
+          "gene": "PKM",
+          "weight": 0.08058
+        },
+        {
+          "gene": "NEAT1",
+          "weight": -0.07861
+        },
+        {
+          "gene": "VIM",
+          "weight": -0.07796
+        },
+        {
+          "gene": "APOE",
+          "weight": -0.07774
+        },
+        {
+          "gene": "AIF1",
+          "weight": 0.07687
+        },
+        {
+          "gene": "FTL",
+          "weight": -0.07647
+        },
+        {
+          "gene": "FAM178B",
+          "weight": -0.07631
+        },
+        {
+          "gene": "BTG1",
+          "weight": -0.07421
+        },
+        {
+          "gene": "SERPINB9",
+          "weight": -0.0727
+        },
+        {
+          "gene": "LAPTM4B",
+          "weight": 0.07268
+        }
+      ]
+    },
+    {
+      "program": 16,
+      "l2": 1.0035606622695923,
+      "threshold": 0.017655180767178535,
+      "top_genes": [
+        {
+          "gene": "BLVRB",
+          "weight": 0.11682
+        },
+        {
+          "gene": "APOC1",
+          "weight": 0.10755
+        },
+        {
+          "gene": "MARCKSL1",
+          "weight": 0.101
+        },
+        {
+          "gene": "SH3BGRL3",
+          "weight": -0.10057
+        },
+        {
+          "gene": "BTG1",
+          "weight": 0.0972
+        },
+        {
+          "gene": "VIM",
+          "weight": 0.09628
+        },
+        {
+          "gene": "CD99",
+          "weight": 0.09224
+        },
+        {
+          "gene": "AC006262.5",
+          "weight": -0.09028
+        },
+        {
+          "gene": "HBZ",
+          "weight": 0.08779
+        },
+        {
+          "gene": "CD52",
+          "weight": -0.08718
+        },
+        {
+          "gene": "MEF2C",
+          "weight": -0.08688
+        },
+        {
+          "gene": "UBB",
+          "weight": 0.08681
+        },
+        {
+          "gene": "TMSB10",
+          "weight": -0.08621
+        },
+        {
+          "gene": "FADS1",
+          "weight": -0.08208
+        },
+        {
+          "gene": "CD63",
+          "weight": 0.08193
+        },
+        {
+          "gene": "EMP3",
+          "weight": 0.08183
+        },
+        {
+          "gene": "MDK",
+          "weight": 0.0815
+        },
+        {
+          "gene": "PRDX2",
+          "weight": 0.0793
+        },
+        {
+          "gene": "MSRB1",
+          "weight": 0.0793
+        },
+        {
+          "gene": "RP11-717F1.1",
+          "weight": 0.07883
+        },
+        {
+          "gene": "TALDO1",
+          "weight": 0.07721
+        },
+        {
+          "gene": "CALM2",
+          "weight": 0.0757
+        },
+        {
+          "gene": "CYBA",
+          "weight": 0.07497
+        },
+        {
+          "gene": "HNRNPH1",
+          "weight": -0.07398
+        },
+        {
+          "gene": "LAPTM4B",
+          "weight": -0.07363
+        }
+      ]
+    },
+    {
+      "program": 17,
+      "l2": 1.002945899963379,
+      "threshold": 0.009676351211965084,
+      "top_genes": [
+        {
+          "gene": "AIF1",
+          "weight": -0.16303
+        },
+        {
+          "gene": "FCER1G",
+          "weight": 0.11546
+        },
+        {
+          "gene": "APOE",
+          "weight": 0.11225
+        },
+        {
+          "gene": "NDUFS5",
+          "weight": -0.09693
+        },
+        {
+          "gene": "TMSB10",
+          "weight": -0.09672
+        },
+        {
+          "gene": "MSN",
+          "weight": -0.09612
+        },
+        {
+          "gene": "ATF7IP2",
+          "weight": 0.08978
+        },
+        {
+          "gene": "ALDOA",
+          "weight": -0.08753
+        },
+        {
+          "gene": "APOC1",
+          "weight": 0.08639
+        },
+        {
+          "gene": "HBD",
+          "weight": -0.08344
+        },
+        {
+          "gene": "SNRPF",
+          "weight": -0.07128
+        },
+        {
+          "gene": "SNHG9",
+          "weight": -0.07128
+        },
+        {
+          "gene": "HIST1H2AC",
+          "weight": 0.07075
+        },
+        {
+          "gene": "PTPN7",
+          "weight": -0.0706
+        },
+        {
+          "gene": "USMG5",
+          "weight": -0.07017
+        },
+        {
+          "gene": "GAL",
+          "weight": -0.06999
+        },
+        {
+          "gene": "UTP11L",
+          "weight": -0.06999
+        },
+        {
+          "gene": "FAM89A",
+          "weight": 0.06927
+        },
+        {
+          "gene": "ATP5F1",
+          "weight": -0.06837
+        },
+        {
+          "gene": "CFD",
+          "weight": 0.06649
+        },
+        {
+          "gene": "COMT",
+          "weight": -0.06625
+        },
+        {
+          "gene": "S100A1",
+          "weight": 0.06625
+        },
+        {
+          "gene": "CCDC34",
+          "weight": 0.06589
+        },
+        {
+          "gene": "FAM178B",
+          "weight": 0.06447
+        },
+        {
+          "gene": "BATF3",
+          "weight": 0.06377
+        }
+      ]
+    },
+    {
+      "program": 18,
+      "l2": 1.0034676790237427,
+      "threshold": 0.009136631153523922,
+      "top_genes": [
+        {
+          "gene": "HBZ",
+          "weight": -0.19532
+        },
+        {
+          "gene": "HBG2",
+          "weight": 0.17972
+        },
+        {
+          "gene": "HBG1",
+          "weight": 0.14324
+        },
+        {
+          "gene": "PRSS57",
+          "weight": 0.11764
+        },
+        {
+          "gene": "BATF3",
+          "weight": 0.1113
+        },
+        {
+          "gene": "ATF7IP2",
+          "weight": -0.1053
+        },
+        {
+          "gene": "TSPAN13",
+          "weight": -0.09664
+        },
+        {
+          "gene": "BST2",
+          "weight": -0.09636
+        },
+        {
+          "gene": "HIST1H4C",
+          "weight": 0.09094
+        },
+        {
+          "gene": "VIM",
+          "weight": -0.09019
+        },
+        {
+          "gene": "AC006262.5",
+          "weight": 0.07795
+        },
+        {
+          "gene": "CTSC",
+          "weight": -0.07681
+        },
+        {
+          "gene": "S100A11",
+          "weight": -0.07616
+        },
+        {
+          "gene": "HBA2",
+          "weight": 0.0734
+        },
+        {
+          "gene": "MDK",
+          "weight": 0.06992
+        },
+        {
+          "gene": "MRPS15",
+          "weight": 0.06838
+        },
+        {
+          "gene": "BTG1",
+          "weight": -0.06816
+        },
+        {
+          "gene": "GATA1",
+          "weight": -0.06799
+        },
+        {
+          "gene": "SLC25A37",
+          "weight": 0.06779
+        },
+        {
+          "gene": "LMO2",
+          "weight": 0.06687
+        },
+        {
+          "gene": "AP2M1",
+          "weight": 0.06591
+        },
+        {
+          "gene": "CLIC1",
+          "weight": 0.06408
+        },
+        {
+          "gene": "EIF5",
+          "weight": 0.06396
+        },
+        {
+          "gene": "MAPKAPK2",
+          "weight": 0.06382
+        },
+        {
+          "gene": "SH3BGRL3",
+          "weight": -0.06375
+        }
+      ]
+    },
+    {
+      "program": 19,
+      "l2": 1.0041673183441162,
+      "threshold": 0.010852387174963951,
+      "top_genes": [
+        {
+          "gene": "TMSB10",
+          "weight": 0.16455
+        },
+        {
+          "gene": "CTSL",
+          "weight": 0.14201
+        },
+        {
+          "gene": "LST1",
+          "weight": 0.12703
+        },
+        {
+          "gene": "GAL",
+          "weight": 0.10394
+        },
+        {
+          "gene": "LMO4",
+          "weight": 0.09179
+        },
+        {
+          "gene": "PNMT",
+          "weight": 0.09124
+        },
+        {
+          "gene": "SVIP",
+          "weight": 0.08995
+        },
+        {
+          "gene": "PRSS57",
+          "weight": -0.08853
+        },
+        {
+          "gene": "HBZ",
+          "weight": 0.08777
+        },
+        {
+          "gene": "SRM",
+          "weight": 0.08465
+        },
+        {
+          "gene": "TXN",
+          "weight": 0.0826
+        },
+        {
+          "gene": "LDHB",
+          "weight": -0.08031
+        },
+        {
+          "gene": "YDJC",
+          "weight": 0.07932
+        },
+        {
+          "gene": "CNN2",
+          "weight": 0.07911
+        },
+        {
+          "gene": "C20orf27",
+          "weight": 0.07774
+        },
+        {
+          "gene": "ZFP36L2",
+          "weight": 0.07527
+        },
+        {
+          "gene": "TUBA1B",
+          "weight": 0.07525
+        },
+        {
+          "gene": "CALM2",
+          "weight": 0.07513
+        },
+        {
+          "gene": "KLF1",
+          "weight": 0.07296
+        },
+        {
+          "gene": "TPM4",
+          "weight": 0.07288
+        },
+        {
+          "gene": "EIF1",
+          "weight": -0.07133
+        },
+        {
+          "gene": "APOC1",
+          "weight": 0.07054
+        },
+        {
+          "gene": "MT-ND6",
+          "weight": 0.07016
+        },
+        {
+          "gene": "CD52",
+          "weight": 0.07005
+        },
+        {
+          "gene": "REXO2",
+          "weight": 0.07003
+        }
+      ]
+    },
+    {
+      "program": 20,
+      "l2": 1.0052850246429443,
+      "threshold": 0.0699426531791687,
+      "top_genes": [
+        {
+          "gene": "AC079466.1",
+          "weight": -0.15247
+        },
+        {
+          "gene": "RP11-301G19.1",
+          "weight": -0.13957
+        },
+        {
+          "gene": "SLC25A37",
+          "weight": 0.12879
+        },
+        {
+          "gene": "TSC22D1",
+          "weight": -0.12093
+        },
+        {
+          "gene": "PRSS57",
+          "weight": 0.11064
+        },
+        {
+          "gene": "ACSM3",
+          "weight": -0.1063
+        },
+        {
+          "gene": "GYPB",
+          "weight": -0.09822
+        },
+        {
+          "gene": "UBE2S",
+          "weight": 0.08977
+        },
+        {
+          "gene": "SQLE",
+          "weight": 0.08967
+        },
+        {
+          "gene": "CTSC",
+          "weight": 0.08534
+        },
+        {
+          "gene": "MSRB1",
+          "weight": -0.08456
+        },
+        {
+          "gene": "CLIC1",
+          "weight": 0.08308
+        },
+        {
+          "gene": "ATF7IP2",
+          "weight": -0.0824
+        },
+        {
+          "gene": "HBA1",
+          "weight": 0.08227
+        },
+        {
+          "gene": "MALAT1",
+          "weight": -0.08204
+        },
+        {
+          "gene": "ATP5G1",
+          "weight": -0.08091
+        },
+        {
+          "gene": "APOE",
+          "weight": -0.08045
+        },
+        {
+          "gene": "PRKAR2B",
+          "weight": -0.08013
+        },
+        {
+          "gene": "NEAT1",
+          "weight": -0.07877
+        },
+        {
+          "gene": "HBA2",
+          "weight": 0.07844
+        },
+        {
+          "gene": "KRT18",
+          "weight": 0.07828
+        },
+        {
+          "gene": "TEX30",
+          "weight": 0.0767
+        },
+        {
+          "gene": "BLVRB",
+          "weight": 0.07532
+        },
+        {
+          "gene": "AC006262.5",
+          "weight": -0.07431
+        },
+        {
+          "gene": "MSN",
+          "weight": 0.07403
+        }
+      ]
+    },
+    {
+      "program": 21,
+      "l2": 1.0044397115707397,
+      "threshold": 0.04208081588149071,
+      "top_genes": [
+        {
+          "gene": "HBZ",
+          "weight": -0.16082
+        },
+        {
+          "gene": "HIST1H1C",
+          "weight": -0.15146
+        },
+        {
+          "gene": "GYPB",
+          "weight": 0.14776
+        },
+        {
+          "gene": "LGALS1",
+          "weight": 0.13189
+        },
+        {
+          "gene": "ALAS2",
+          "weight": 0.12448
+        },
+        {
+          "gene": "PRSS57",
+          "weight": 0.12242
+        },
+        {
+          "gene": "SOX4",
+          "weight": 0.09152
+        },
+        {
+          "gene": "BATF3",
+          "weight": -0.09082
+        },
+        {
+          "gene": "S100A13",
+          "weight": 0.09011
+        },
+        {
+          "gene": "GYPA",
+          "weight": 0.08795
+        },
+        {
+          "gene": "GMPPA",
+          "weight": 0.08773
+        },
+        {
+          "gene": "EMP3",
+          "weight": 0.08562
+        },
+        {
+          "gene": "CKB",
+          "weight": -0.08511
+        },
+        {
+          "gene": "RP11-301G19.1",
+          "weight": -0.0838
+        },
+        {
+          "gene": "SOCS1",
+          "weight": 0.08176
+        },
+        {
+          "gene": "HIST1H2BJ",
+          "weight": -0.08035
+        },
+        {
+          "gene": "COX6C",
+          "weight": 0.07859
+        },
+        {
+          "gene": "GAPDH",
+          "weight": -0.07805
+        },
+        {
+          "gene": "AIF1",
+          "weight": -0.07283
+        },
+        {
+          "gene": "MYL4",
+          "weight": -0.07206
+        },
+        {
+          "gene": "NEAT1",
+          "weight": -0.07045
+        },
+        {
+          "gene": "HEMGN",
+          "weight": -0.0686
+        },
+        {
+          "gene": "ANP32B",
+          "weight": -0.06778
+        },
+        {
+          "gene": "SDF2L1",
+          "weight": 0.06645
+        },
+        {
+          "gene": "MAP1A",
+          "weight": 0.06582
+        }
+      ]
+    },
+    {
+      "program": 22,
+      "l2": 1.0030479431152344,
+      "threshold": 0.023874150589108467,
+      "top_genes": [
+        {
+          "gene": "HBZ",
+          "weight": -0.25577
+        },
+        {
+          "gene": "COL18A1",
+          "weight": -0.13414
+        },
+        {
+          "gene": "LST1",
+          "weight": -0.11855
+        },
+        {
+          "gene": "SQLE",
+          "weight": -0.11701
+        },
+        {
+          "gene": "CFD",
+          "weight": -0.11551
+        },
+        {
+          "gene": "TYROBP",
+          "weight": -0.10802
+        },
+        {
+          "gene": "NEAT1",
+          "weight": -0.09927
+        },
+        {
+          "gene": "MRPS15",
+          "weight": -0.0917
+        },
+        {
+          "gene": "ID3",
+          "weight": 0.08692
+        },
+        {
+          "gene": "CLC",
+          "weight": -0.08664
+        },
+        {
+          "gene": "CORO1A",
+          "weight": -0.08572
+        },
+        {
+          "gene": "HBE1",
+          "weight": 0.08527
+        },
+        {
+          "gene": "RP11-301G19.1",
+          "weight": 0.08513
+        },
+        {
+          "gene": "CD52",
+          "weight": -0.08502
+        },
+        {
+          "gene": "CSF3R",
+          "weight": -0.08383
+        },
+        {
+          "gene": "S100A1",
+          "weight": 0.08214
+        },
+        {
+          "gene": "AIF1",
+          "weight": -0.0762
+        },
+        {
+          "gene": "SLC25A37",
+          "weight": -0.0738
+        },
+        {
+          "gene": "ATP5B",
+          "weight": -0.07364
+        },
+        {
+          "gene": "DBI",
+          "weight": -0.07191
+        },
+        {
+          "gene": "CTSC",
+          "weight": 0.06974
+        },
+        {
+          "gene": "FILIP1L",
+          "weight": 0.06736
+        },
+        {
+          "gene": "ANP32A",
+          "weight": -0.06706
+        },
+        {
+          "gene": "MALAT1",
+          "weight": -0.06637
+        },
+        {
+          "gene": "TESC",
+          "weight": -0.06466
+        }
+      ]
+    },
+    {
+      "program": 23,
+      "l2": 1.0033550262451172,
+      "threshold": 0.15745538473129272,
+      "top_genes": [
+        {
+          "gene": "GSTP1",
+          "weight": -0.18618
+        },
+        {
+          "gene": "CTSL",
+          "weight": -0.16373
+        },
+        {
+          "gene": "SH3BGRL3",
+          "weight": 0.10961
+        },
+        {
+          "gene": "GYPA",
+          "weight": 0.10618
+        },
+        {
+          "gene": "HBE1",
+          "weight": 0.10085
+        },
+        {
+          "gene": "HBA2",
+          "weight": 0.09861
+        },
+        {
+          "gene": "ALAS2",
+          "weight": 0.09501
+        },
+        {
+          "gene": "CTSC",
+          "weight": -0.09404
+        },
+        {
+          "gene": "HIST1H4C",
+          "weight": -0.09065
+        },
+        {
+          "gene": "APOC1",
+          "weight": -0.08757
+        },
+        {
+          "gene": "GYPB",
+          "weight": 0.08685
+        },
+        {
+          "gene": "KRT8",
+          "weight": 0.08565
+        },
+        {
+          "gene": "TMSB4X",
+          "weight": -0.08552
+        },
+        {
+          "gene": "C2orf88",
+          "weight": 0.08245
+        },
+        {
+          "gene": "PSAP",
+          "weight": -0.0823
+        },
+        {
+          "gene": "AC079466.1",
+          "weight": -0.08202
+        },
+        {
+          "gene": "APOE",
+          "weight": -0.08177
+        },
+        {
+          "gene": "HBA1",
+          "weight": 0.07833
+        },
+        {
+          "gene": "FTL",
+          "weight": 0.07684
+        },
+        {
+          "gene": "SSB",
+          "weight": -0.07639
+        },
+        {
+          "gene": "PIM1",
+          "weight": -0.07292
+        },
+        {
+          "gene": "HBZ",
+          "weight": -0.0725
+        },
+        {
+          "gene": "GALK1",
+          "weight": -0.07181
+        },
+        {
+          "gene": "LGALS1",
+          "weight": -0.0717
+        },
+        {
+          "gene": "BATF3",
+          "weight": -0.07032
+        }
+      ]
+    },
+    {
+      "program": 24,
+      "l2": 1.0040067434310913,
+      "threshold": 0.008158478885889053,
+      "top_genes": [
+        {
+          "gene": "CD52",
+          "weight": 0.14149
+        },
+        {
+          "gene": "RP11-301G19.1",
+          "weight": 0.1395
+        },
+        {
+          "gene": "HIST1H4C",
+          "weight": -0.1371
+        },
+        {
+          "gene": "AIF1",
+          "weight": 0.1246
+        },
+        {
+          "gene": "HBZ",
+          "weight": -0.10868
+        },
+        {
+          "gene": "HBG1",
+          "weight": -0.10673
+        },
+        {
+          "gene": "IGFBP2",
+          "weight": 0.10658
+        },
+        {
+          "gene": "GYPB",
+          "weight": -0.10291
+        },
+        {
+          "gene": "GYPA",
+          "weight": -0.09971
+        },
+        {
+          "gene": "HBG2",
+          "weight": -0.0974
+        },
+        {
+          "gene": "APOE",
+          "weight": -0.08868
+        },
+        {
+          "gene": "MARCKSL1",
+          "weight": 0.08819
+        },
+        {
+          "gene": "TIMP1",
+          "weight": 0.08451
+        },
+        {
+          "gene": "CFD",
+          "weight": -0.08149
+        },
+        {
+          "gene": "FAM89A",
+          "weight": 0.08143
+        },
+        {
+          "gene": "SOCS1",
+          "weight": -0.07321
+        },
+        {
+          "gene": "COMT",
+          "weight": 0.07268
+        },
+        {
+          "gene": "SOX4",
+          "weight": 0.07253
+        },
+        {
+          "gene": "SLC25A37",
+          "weight": -0.07176
+        },
+        {
+          "gene": "PNMT",
+          "weight": -0.07128
+        },
+        {
+          "gene": "SH3BGRL3",
+          "weight": 0.07091
+        },
+        {
+          "gene": "LY6E",
+          "weight": 0.07028
+        },
+        {
+          "gene": "S100A13",
+          "weight": 0.069
+        },
+        {
+          "gene": "MDK",
+          "weight": 0.06876
+        },
+        {
+          "gene": "C21orf58",
+          "weight": -0.06731
+        }
+      ]
+    },
+    {
+      "program": 25,
+      "l2": 1.002699613571167,
+      "threshold": 0.009603669866919518,
+      "top_genes": [
+        {
+          "gene": "HBZ",
+          "weight": -0.18238
+        },
+        {
+          "gene": "AC006262.5",
+          "weight": 0.13884
+        },
+        {
+          "gene": "RP11-301G19.1",
+          "weight": 0.12647
+        },
+        {
+          "gene": "RP11-717F1.1",
+          "weight": -0.12511
+        },
+        {
+          "gene": "LMO4",
+          "weight": 0.09536
+        },
+        {
+          "gene": "HIST1H1C",
+          "weight": 0.0928
+        },
+        {
+          "gene": "NEAT1",
+          "weight": 0.09262
+        },
+        {
+          "gene": "HN1",
+          "weight": -0.09157
+        },
+        {
+          "gene": "LST1",
+          "weight": 0.0868
+        },
+        {
+          "gene": "AC079466.1",
+          "weight": 0.08395
+        },
+        {
+          "gene": "PITX1",
+          "weight": -0.08023
+        },
+        {
+          "gene": "UQCRQ",
+          "weight": 0.07904
+        },
+        {
+          "gene": "HBD",
+          "weight": 0.07882
+        },
+        {
+          "gene": "SH3BGRL3",
+          "weight": -0.07789
+        },
+        {
+          "gene": "PYCARD",
+          "weight": 0.07698
+        },
+        {
+          "gene": "APOC1",
+          "weight": 0.07638
+        },
+        {
+          "gene": "PLD3",
+          "weight": -0.0753
+        },
+        {
+          "gene": "CEBPE",
+          "weight": 0.07512
+        },
+        {
+          "gene": "MAT2A",
+          "weight": -0.07504
+        },
+        {
+          "gene": "ACSM3",
+          "weight": 0.07435
+        },
+        {
+          "gene": "EGFL7",
+          "weight": -0.07426
+        },
+        {
+          "gene": "MLXIP",
+          "weight": -0.07245
+        },
+        {
+          "gene": "AP001171.1",
+          "weight": 0.07107
+        },
+        {
+          "gene": "HBA1",
+          "weight": -0.07082
+        },
+        {
+          "gene": "CTSZ",
+          "weight": 0.07063
+        }
+      ]
+    },
+    {
+      "program": 26,
+      "l2": 1.00323486328125,
+      "threshold": 0.02032717503607273,
+      "top_genes": [
+        {
+          "gene": "HBZ",
+          "weight": -0.2256
+        },
+        {
+          "gene": "HBG2",
+          "weight": -0.15455
+        },
+        {
+          "gene": "GSTP1",
+          "weight": 0.14494
+        },
+        {
+          "gene": "AIF1",
+          "weight": 0.12955
+        },
+        {
+          "gene": "GAL",
+          "weight": -0.12353
+        },
+        {
+          "gene": "APOC1",
+          "weight": 0.11888
+        },
+        {
+          "gene": "GMFG",
+          "weight": 0.11257
+        },
+        {
+          "gene": "TUBA1B",
+          "weight": 0.11098
+        },
+        {
+          "gene": "HIST1H4C",
+          "weight": 0.1092
+        },
+        {
+          "gene": "STMN1",
+          "weight": 0.10749
+        },
+        {
+          "gene": "ODC1",
+          "weight": -0.1024
+        },
+        {
+          "gene": "APOE",
+          "weight": 0.09885
+        },
+        {
+          "gene": "CTSC",
+          "weight": -0.09286
+        },
+        {
+          "gene": "CD63",
+          "weight": 0.08417
+        },
+        {
+          "gene": "ALAS2",
+          "weight": 0.08276
+        },
+        {
+          "gene": "ATF7IP2",
+          "weight": -0.07836
+        },
+        {
+          "gene": "HBQ1",
+          "weight": -0.07728
+        },
+        {
+          "gene": "ARHGDIB",
+          "weight": 0.07687
+        },
+        {
+          "gene": "TMSB4X",
+          "weight": 0.0766
+        },
+        {
+          "gene": "ID3",
+          "weight": -0.07583
+        },
+        {
+          "gene": "MT2A",
+          "weight": 0.07391
+        },
+        {
+          "gene": "SH3BGRL3",
+          "weight": 0.07381
+        },
+        {
+          "gene": "SOCS2",
+          "weight": -0.07295
+        },
+        {
+          "gene": "LST1",
+          "weight": 0.0717
+        },
+        {
+          "gene": "NMT1",
+          "weight": -0.07147
+        }
+      ]
+    },
+    {
+      "program": 27,
+      "l2": 1.0043184757232666,
+      "threshold": 0.013830984011292458,
+      "top_genes": [
+        {
+          "gene": "HBG2",
+          "weight": -0.20648
+        },
+        {
+          "gene": "HBZ",
+          "weight": -0.17429
+        },
+        {
+          "gene": "HBG1",
+          "weight": -0.16929
+        },
+        {
+          "gene": "GYPA",
+          "weight": -0.14458
+        },
+        {
+          "gene": "ALAS2",
+          "weight": -0.13625
+        },
+        {
+          "gene": "CTSL",
+          "weight": 0.13083
+        },
+        {
+          "gene": "HBA1",
+          "weight": -0.11849
+        },
+        {
+          "gene": "GYPB",
+          "weight": -0.10348
+        },
+        {
+          "gene": "VIM",
+          "weight": 0.09456
+        },
+        {
+          "gene": "TSC22D1",
+          "weight": -0.09322
+        },
+        {
+          "gene": "SNHG8",
+          "weight": 0.0899
+        },
+        {
+          "gene": "CKS1B",
+          "weight": -0.0898
+        },
+        {
+          "gene": "HMGN2",
+          "weight": -0.08854
+        },
+        {
+          "gene": "BLVRB",
+          "weight": -0.08579
+        },
+        {
+          "gene": "NR2F2",
+          "weight": 0.08418
+        },
+        {
+          "gene": "TUBA1B",
+          "weight": -0.08366
+        },
+        {
+          "gene": "SLC25A37",
+          "weight": -0.08333
+        },
+        {
+          "gene": "HSP90AA1",
+          "weight": -0.07876
+        },
+        {
+          "gene": "BST2",
+          "weight": 0.07494
+        },
+        {
+          "gene": "UBB",
+          "weight": -0.0729
+        },
+        {
+          "gene": "PTTG1",
+          "weight": -0.07193
+        },
+        {
+          "gene": "C6orf48",
+          "weight": 0.07064
+        },
+        {
+          "gene": "FCER1G",
+          "weight": -0.07049
+        },
+        {
+          "gene": "GSTP1",
+          "weight": -0.06967
+        },
+        {
+          "gene": "KRT8",
+          "weight": 0.06863
+        }
+      ]
+    },
+    {
+      "program": 28,
+      "l2": 1.0034908056259155,
+      "threshold": 0.01252487301826477,
+      "top_genes": [
+        {
+          "gene": "HIST1H1C",
+          "weight": 0.17578
+        },
+        {
+          "gene": "PRSS57",
+          "weight": 0.16557
+        },
+        {
+          "gene": "APOC1",
+          "weight": 0.1247
+        },
+        {
+          "gene": "HBE1",
+          "weight": 0.11944
+        },
+        {
+          "gene": "MALAT1",
+          "weight": -0.11755
+        },
+        {
+          "gene": "UBAC1",
+          "weight": -0.11737
+        },
+        {
+          "gene": "HIST1H2BJ",
+          "weight": 0.10089
+        },
+        {
+          "gene": "HBA2",
+          "weight": 0.09942
+        },
+        {
+          "gene": "CALR",
+          "weight": 0.09849
+        },
+        {
+          "gene": "SDF2L1",
+          "weight": 0.09356
+        },
+        {
+          "gene": "HBG2",
+          "weight": -0.09257
+        },
+        {
+          "gene": "ID1",
+          "weight": 0.09222
+        },
+        {
+          "gene": "GAL",
+          "weight": 0.08869
+        },
+        {
+          "gene": "HBA1",
+          "weight": 0.08477
+        },
+        {
+          "gene": "KRT18",
+          "weight": -0.08445
+        },
+        {
+          "gene": "MPC2",
+          "weight": -0.08404
+        },
+        {
+          "gene": "PVT1",
+          "weight": 0.08341
+        },
+        {
+          "gene": "TMSB4X",
+          "weight": 0.07802
+        },
+        {
+          "gene": "PDIA6",
+          "weight": 0.07458
+        },
+        {
+          "gene": "S100A4",
+          "weight": -0.07312
+        },
+        {
+          "gene": "RNASET2",
+          "weight": 0.07217
+        },
+        {
+          "gene": "UBE2S",
+          "weight": 0.07138
+        },
+        {
+          "gene": "ID3",
+          "weight": 0.07126
+        },
+        {
+          "gene": "TXNIP",
+          "weight": 0.07101
+        },
+        {
+          "gene": "SERPINB6",
+          "weight": -0.06944
+        }
+      ]
+    },
+    {
+      "program": 29,
+      "l2": 1.0019803047180176,
+      "threshold": 0.01877313107252121,
+      "top_genes": [
+        {
+          "gene": "HBG2",
+          "weight": 0.16563
+        },
+        {
+          "gene": "ACTG1",
+          "weight": -0.12601
+        },
+        {
+          "gene": "MALAT1",
+          "weight": -0.12342
+        },
+        {
+          "gene": "ATF7IP2",
+          "weight": -0.11633
+        },
+        {
+          "gene": "LST1",
+          "weight": 0.11411
+        },
+        {
+          "gene": "AC079466.1",
+          "weight": -0.11121
+        },
+        {
+          "gene": "CD99",
+          "weight": -0.10719
+        },
+        {
+          "gene": "IGFBP2",
+          "weight": 0.10682
+        },
+        {
+          "gene": "SOCS2",
+          "weight": -0.10663
+        },
+        {
+          "gene": "LMO4",
+          "weight": 0.1028
+        },
+        {
+          "gene": "MSN",
+          "weight": 0.0964
+        },
+        {
+          "gene": "BTG1",
+          "weight": 0.08706
+        },
+        {
+          "gene": "VIM",
+          "weight": 0.08647
+        },
+        {
+          "gene": "ACSM3",
+          "weight": 0.08641
+        },
+        {
+          "gene": "MS4A3",
+          "weight": 0.08457
+        },
+        {
+          "gene": "AIF1",
+          "weight": 0.07903
+        },
+        {
+          "gene": "LAPTM4B",
+          "weight": -0.07632
+        },
+        {
+          "gene": "PITX1",
+          "weight": -0.07585
+        },
+        {
+          "gene": "FTL",
+          "weight": 0.07492
+        },
+        {
+          "gene": "S100A13",
+          "weight": -0.07426
+        },
+        {
+          "gene": "S100A4",
+          "weight": -0.07272
+        },
+        {
+          "gene": "COMT",
+          "weight": -0.06744
+        },
+        {
+          "gene": "FBL",
+          "weight": -0.067
+        },
+        {
+          "gene": "SLC25A37",
+          "weight": 0.06638
+        },
+        {
+          "gene": "LY6E",
+          "weight": -0.06627
+        }
+      ]
+    },
+    {
+      "program": 30,
+      "l2": 1.005297303199768,
+      "threshold": 0.1403360515832901,
+      "top_genes": [
+        {
+          "gene": "ALAS2",
+          "weight": 0.13465
+        },
+        {
+          "gene": "SLC25A37",
+          "weight": 0.13188
+        },
+        {
+          "gene": "GYPB",
+          "weight": -0.1228
+        },
+        {
+          "gene": "MEF2C",
+          "weight": -0.11388
+        },
+        {
+          "gene": "HBD",
+          "weight": -0.10643
+        },
+        {
+          "gene": "HBA1",
+          "weight": 0.10456
+        },
+        {
+          "gene": "HBA2",
+          "weight": 0.10323
+        },
+        {
+          "gene": "MYL12A",
+          "weight": -0.1006
+        },
+        {
+          "gene": "RP11-301G19.1",
+          "weight": -0.09559
+        },
+        {
+          "gene": "SNHG8",
+          "weight": 0.09375
+        },
+        {
+          "gene": "CD99",
+          "weight": -0.09281
+        },
+        {
+          "gene": "HBE1",
+          "weight": 0.09119
+        },
+        {
+          "gene": "GSTP1",
+          "weight": -0.09034
+        },
+        {
+          "gene": "HBG2",
+          "weight": -0.08952
+        },
+        {
+          "gene": "CD63",
+          "weight": -0.08946
+        },
+        {
+          "gene": "GYPA",
+          "weight": -0.08493
+        },
+        {
+          "gene": "PRSS57",
+          "weight": 0.08358
+        },
+        {
+          "gene": "CLIC1",
+          "weight": -0.08036
+        },
+        {
+          "gene": "EEF1B2",
+          "weight": 0.07996
+        },
+        {
+          "gene": "VIM",
+          "weight": -0.0793
+        },
+        {
+          "gene": "HIST1H4C",
+          "weight": 0.07865
+        },
+        {
+          "gene": "MALAT1",
+          "weight": -0.0764
+        },
+        {
+          "gene": "UBE2L3",
+          "weight": -0.0755
+        },
+        {
+          "gene": "ACSM3",
+          "weight": -0.07454
+        },
+        {
+          "gene": "MYL4",
+          "weight": -0.07241
+        }
+      ]
+    },
+    {
+      "program": 31,
+      "l2": 1.0038179159164429,
+      "threshold": 0.017878465354442596,
+      "top_genes": [
+        {
+          "gene": "MALAT1",
+          "weight": -0.12399
+        },
+        {
+          "gene": "BTG2",
+          "weight": -0.12301
+        },
+        {
+          "gene": "NEAT1",
+          "weight": -0.11171
+        },
+        {
+          "gene": "HBG2",
+          "weight": -0.10963
+        },
+        {
+          "gene": "HBG1",
+          "weight": -0.10775
+        },
+        {
+          "gene": "ALAS2",
+          "weight": -0.0913
+        },
+        {
+          "gene": "ATP5H",
+          "weight": -0.09001
+        },
+        {
+          "gene": "GAD1",
+          "weight": -0.08922
+        },
+        {
+          "gene": "TMSB4X",
+          "weight": 0.08879
+        },
+        {
+          "gene": "NQO2",
+          "weight": -0.08482
+        },
+        {
+          "gene": "AIF1",
+          "weight": 0.08396
+        },
+        {
+          "gene": "FAM89A",
+          "weight": 0.07895
+        },
+        {
+          "gene": "KRT8",
+          "weight": -0.0728
+        },
+        {
+          "gene": "PRDX6",
+          "weight": -0.0727
+        },
+        {
+          "gene": "GAPDH",
+          "weight": -0.07205
+        },
+        {
+          "gene": "ID3",
+          "weight": 0.07188
+        },
+        {
+          "gene": "MYL4",
+          "weight": -0.07176
+        },
+        {
+          "gene": "LAPTM4B",
+          "weight": -0.07096
+        },
+        {
+          "gene": "PRDX1",
+          "weight": -0.06945
+        },
+        {
+          "gene": "SMIM4",
+          "weight": -0.06713
+        },
+        {
+          "gene": "LDHA",
+          "weight": -0.06506
+        },
+        {
+          "gene": "CSNK2B",
+          "weight": -0.06477
+        },
+        {
+          "gene": "CRNDE",
+          "weight": 0.06307
+        },
+        {
+          "gene": "MYBL2",
+          "weight": 0.06011
+        },
+        {
+          "gene": "HSD17B10",
+          "weight": -0.05969
+        }
+      ]
+    }
+  ],
+  "note": "post-gate interpretation only; never scored"
+}
